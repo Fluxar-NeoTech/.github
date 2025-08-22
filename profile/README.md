@@ -8,8 +8,8 @@
 
 ## Desenvolvimento 🛠️
 
-![HTML](.github\profile\images\Html_Icon.png)
-![CSS](.github\profile\images\Html_CSS_Icon.png)
+![HTML](.github/profile/images/Html_Icon.png)
+![CSS](.github/profile/images/Html_CSS_Icon.png)
 ![JavaScript](.github\profile\images\JS_Icon.png)
 ![React](.github\profile\images\React_Icon.png)
 ![Java](images\Java_Icon.png)
