@@ -16,8 +16,8 @@
   <img src="./images/Python_Icon.png" alt="Python" width="29"/>
   <img src="./images/MongoDB_Icon.png" alt="MongoDB" height="30"/>
   <img src="./images/Redis_Icon.png" alt="Redis" height="30"/>
-  <img src="./images/PostgreSQL_Icon.png" alt="PostgreSQL" height="35"/>
-  <img src="./images/Cloudnary_Icon.png" alt="Cloudnary" height="50"/>
+  <img src="./images/PostgreSQL_icon.png" alt="PostgreSQL" height="30"/>
+  <img src="./images/Cloudinary_Icon.png" alt="Cloudnary" height="30"/>
 </p>
 
 ## Autores 🖥️
