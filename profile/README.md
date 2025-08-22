@@ -12,7 +12,7 @@
 ![CSS](.github\profile\images\Html_CSS_Icon.png)
 ![JavaScript](.github\profile\images\JS_Icon.png)
 ![React](.github\profile\images\React_Icon.png)
-[Java](.github\profile\images\Java_Icon.png)
+![Java](images\Java_Icon.png)
 ![Spring Boot](.github\profile\images\Sprint_Boot_Icon.png)
 ![Kotlin](.github\profile\images\Kotlin_Icon.png)
 ![Python](.github\profile\images\Python_Icon.png)
