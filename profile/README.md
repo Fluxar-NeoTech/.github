@@ -8,18 +8,16 @@
 
 ## Desenvolvimento 🛠️
 <p>
-  <img src="./images/Html_Icon.png" alt="HTML" width="40"/>
-  <img src="./images/CSS_Icon.png" alt="CSS" width="29"/>
-  <img src="./images/JS_Icon.png" alt="JS" width="40" height="80"/>
+  <img src="./images/DevWeb_Icons.png" alt="HTML" height="27"/>
   <img src="./images/React-Icon.png" alt="React" width="29"/>
   <img src="./images/Java_Icon.png" alt="Java" width="29"/>
   <img src="./images/Spring_Boot_Icon.png" alt="Spring Boot" width="29"/>
   <img src="./images/Kotlin_Icon.png" alt="Kotlin" width="29"/>
   <img src="./images/Python_Icon.png" alt="Python" width="29"/>
-  <img src="./images/MongoDB_Icon.png" alt="MongoDB" width="29"/>
-  <img src="./images/Redis_Icon.png" alt="Redis" width="29"/>
-  <img src="./images/PostgreSQL_Icon.png" alt="PostgreSQL" width="29"/>
-  <img src="./images/Cloudnary_Icon.png" alt="Cloudnary" width="29"/>
+  <img src="./images/MongoDB_Icon.png" alt="MongoDB" height="30"/>
+  <img src="./images/Redis_Icon.png" alt="Redis" height="30"/>
+  <img src="./images/PostgreSQL_Icon.png" alt="PostgreSQL" height="35"/>
+  <img src="./images/Cloudnary_Icon.png" alt="Cloudnary" height="50"/>
 </p>
 
 ## Autores 🖥️
